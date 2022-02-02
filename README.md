@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Nevado M.</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Node.js, Next.js, AWS**
+- 🌱 I’m currently learning **Node.js, Next.js, AWS, IoT**
 
 - 👯 I’m looking to collaborate on [New Local Organization](https://github.com/Infinity-Electrons)
 
