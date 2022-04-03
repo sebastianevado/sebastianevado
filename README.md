@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sebastian Nevado M.</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Node.js, Express, NestJs, Azure, IoT**
+- 🌱 I’m currently learning **Node.js, Azure, IoT,C#**
 
 - 👯 I’m looking to collaborate on [New Local Organization](https://github.com/Infinity-Electrons)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sebastianevado](https://github.com/sebastianevado)
 
-- 💬 Ask me about **React, Flutter, Python,AI**
+- 💬 Ask me about **React, C, Python,AI**
 
 - 📫 How to reach me **sebastianevado@gmail.com**
 
